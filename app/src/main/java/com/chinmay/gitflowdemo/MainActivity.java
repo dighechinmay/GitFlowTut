@@ -20,6 +20,7 @@ public class MainActivity extends AppCompatActivity {
 
 
         // Adding feature no. 2 here
+        // adding some bug fixes
 
     }
 }
